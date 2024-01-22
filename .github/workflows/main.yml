@@ -1,4 +1,4 @@
-name: check_syntax
+name: main.yml
 
 on:
   push:
